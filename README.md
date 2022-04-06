@@ -10,3 +10,6 @@ Insertion Sort türüne göre aşamaları şöyledir:
   [2,3,4,5,6,9,8,15,7] (n-4)
   [2,3,4,5,6,7,8,15,9] (n-5)
   [2,3,4,5,6,7,8,9,15] (1)
+
+Merge Sort Projesi
+[16,21,11,8,12,22]
